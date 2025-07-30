@@ -1,0 +1,10 @@
+.payment-form {
+  background: #17afeb;
+background: radial-gradient(circle, rgba(23, 175, 235, 1) 0%, rgba(12, 58, 114, 1) 100%, rgba(255, 255, 255, 1) 100%);
+}
+
+.img_logo{
+    width: 50%;
+    margin: 1rem auto 0 auto;
+}
+
