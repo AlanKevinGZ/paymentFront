@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 npm run dev
 
 # Install depencies
-npm i
+## npm i
 
 
 ## Expanding the ESLint configuration
